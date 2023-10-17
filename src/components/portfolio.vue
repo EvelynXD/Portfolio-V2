@@ -73,7 +73,7 @@
             </div>
             <div>
                 <a
-                    href="https://github.com/GunawanAhmad/Sisfo-Klinik-Full-Stack"
+                    href="https://github.com/EvelynXD/Sisfo-Klinik-Full-Stack"
                     target="_blank"
                 >
                     <img src="../assets/kliniku_box.png" alt="" />
